@@ -8,7 +8,7 @@ On Heroku: https://jpa02-charanpreet.herokuapp.com
   then delete this TODO.  Replace it with 
   a link to your codecov report.
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-charanpreet
+On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-charanpreet0
 
 
 # About this repo
